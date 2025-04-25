@@ -1,0 +1,1 @@
+{"normal": 0, "sqli": 1, "xss": 2, "shellshock": 3, "traversal": 4, "cmdexe": 5, "log4shell": 6, "xxe": 7}

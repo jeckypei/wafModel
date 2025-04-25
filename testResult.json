@@ -1,0 +1,1 @@
+{"testNum": 28108, "classIDCntList": [9626, 229, 10472, 12, 7079, 617, 55, 18], "classFailCntList": [0, 3, 8, 7, 9, 6, 3, 8], "classNameTbl": ["normal", "sqli", "xss", "shellshock", "traversal", "cmdexe", "log4shell", "xxe"], "successRate": 99.84346093638821, "successCnt": 28064, "failCnt": 44}
